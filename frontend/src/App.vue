@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+    <div id="main-content">
     <img src="./assets/wiebke_marvin.jpg" height="400">
     <hello-world newlyweds="Wiebke &amp; Marvin" weddingdate="01.06.2018">
       <h4>Wir brauchen eure Hilfe!</h4>
@@ -40,7 +40,7 @@
 </script>
 
 <style>
-  #app {
+    div#main-content {
     font-family: 'Avenir', Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
